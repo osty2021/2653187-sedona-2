@@ -2,7 +2,7 @@
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2653187).
 * Наставник: [Вячеслав Николаев](https://htmlacademy.ru/profile/slavka_piyavka).
-* Сайт: [Мой проэкт Седона](https://osty2021.github.io/2653187-sedona-2/)
+* Сайт: [Мой проект Седона](https://osty2021.github.io/2653187-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
